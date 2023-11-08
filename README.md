@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YAVENSINGH
-- 👀 I’m interested in software developing 
-- 🌱 I’m currently learning aws and software development
+- 👀 I’m interested in devops engineer
+- 🌱 I’m currently learning aws and devops engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yaven_singh (instagram)
 
